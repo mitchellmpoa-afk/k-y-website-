@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keya Company - Your One-Stop Shop for Tom Mboya University Students & Staff</title>
+    <meta name="description" content="Affordable laptops, phones, books, stationery, furniture, and comrade food like nyoyo & eggs. Free delivery in Homabay, Kenya. Comrade prices for students!">
+    <meta name="keywords" content="Tom Mboya University, student supplies, laptops, phones, books, stationery, furniture, comrade food, Homabay Kenya">
+    <!-- Open Graph for Social Media Sharing -->
+    <meta property="og:title" content="Keya Company - Essential Supplies for Tom Mboya University">
+    <meta property="og:description" content="Quality products at comrade prices with free delivery. Laptops, books, food & more!">
+    <meta property="og:image" content="https://via.placeholder.com/1200x630?text=Keya+Company+Logo">
+    <meta property="og:url" content="https://yourwebsite.com"> <!-- Replace with actual hosted URL -->
+    <meta property="og:type" content="website">
+    <!-- Twitter Card for Social Media -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Keya Company - Essential Supplies for Tom Mboya University">
+    <meta name="twitter:description" content="Quality products at comrade prices with free delivery. Laptops, books, food & more!">
+    <meta name="twitter:image" content="https://via.placeholder.com/1200x630?text=Keya+Company+Logo">
+    <style>
+        /* Beautiful and clear color scheme: University blue (#003366) for headers, fresh green (#28a745) for accents (flavor for growth/affordability), white/ light gray for backgrounds */
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f8f9fa; color: #333; }
+        header { background-color: #003366; color: white; padding: 20px; text-align: center; }
+        nav { background-color: #28a745; padding: 10px; }
+        nav ul { list-style: none; padding: 0; margin: 0; display: flex; justify-content: center; flex-wrap: wrap; }
+        nav li { margin: 0 15px; }
+        nav a { color: white; text-decoration: none; font-weight: bold; }
+        .hero { background-color: #e9ecef; padding: 50px 20px; text-align: center; }
+        .hero h1 { color: #003366; }
+        .hero p { font-size: 1.2em; color: #555; max-width: 800px; margin: 0 auto; }
+        .products { padding: 40px 20px; max-width: 1200px; margin: 0 auto; }
+        .product-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
+        .product-card { background: white; border: 1px solid #ddd; border-radius: 8px; padding: 15px; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        .product-card img { max-width: 100%; height: 200px; object-fit: cover; border-radius: 5px; }
+        .video-section { padding: 40px 20px; text-align: center; background-color: #f8f9fa; }
+        .video-section video { max-width: 100%; height: auto; border-radius: 8px; }
+        .about { padding: 40px 20px; max-width: 800px; margin: 0 auto; text-align: center; background-color: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        footer { background-color: #003366; color: white; padding: 20px; text-align: center; }
+        .social-links { margin-top: 10px; }
+        .social-links a { color: #28a745; text-decoration: none; margin: 0 10px; font-size: 1.5em; }
+        @media (max-width: 768px) { nav ul { flex-direction: column; } .hero { padding: 30px 10px; } }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>🛒 Keya Company</h1>
+        <p>Your Trusted Partner for Affordable Essentials at Tom Mboya University</p>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#products">Products</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Hero Section with Sales Pitch -->
+    <section id="home" class="hero">
+        <h1>Welcome to Keya Company – Empowering Student Success!</h1>
+        <p>As a proud Homabay-based business right around Tom Mboya University, Keya Company is your go-to destination for high-quality, budget-friendly supplies tailored for students and staff. From cutting-edge laptops and smartphones to essential books, pens, and stationery; durable furniture like beds, chairs, and tables; and nourishing comrade food such as hearty nyoyo (ugali and beans) and fresh eggs – we've got everything you need to thrive academically and comfortably. Enjoy <strong>comrade prices</strong> that won't break the bank, <strong>free delivery</strong> across Homabay with no hidden costs, and lightning-fast service to keep you focused on what matters: your studies and growth. We're more than a store; we're your campus comrade, committed to quality, convenience, and community. Shop now and elevate your university life!</p>
+    </section>
+
+    <!-- Products Section -->
+    <section id="products" class="products">
+        <h2 style="text-align: center; color: #003366;">Our Product Categories</h2>
+        <p style="text-align: center; color: #555;">Discover a wide range of products at unbeatable comrade prices. Free delivery to Tom Mboya University dorms and offices!</p>
+        <div class="product-grid">
+            <!-- Electronics -->
+            <div class="product-card">
+                <img src="https://via.placeholder.com/250x200?text=Laptop" alt="Laptop - Affordable student laptops for assignments and research">
+                <h3>Laptops & Phones</h3>
+                <p>High-performance laptops and smartphones starting at KSh 15,000. Perfect for online classes and staying connected.</p>
+            </div>
+            <!-- Books & Stationery -->
+            <div class="product-card">
+                <img src="https://via.placeholder.com/250x200?text=Books+&+Pens" alt="Books and Pens - Textbooks, notebooks, and stationery for every student">
+                <h3>Books & Stationery</h3>
+                <p>Latest textbooks, notebooks, pens, and more. Stock up for the semester at prices 20% below market rate.</p>
+            </div>
+            <!-- Furniture -->
+            <div class="product-card">
+                <img src="https://via.placeholder.com/250x200?text=Bed+&+Chair" alt="Furniture - Beds, chairs, and tables for dorm comfort">
+                <h3>Furniture: Beds, Chairs & Tables</h3>
+                <p>Sturdy, space-saving furniture to make your dorm feel like home. Easy assembly and free setup delivery.</p>
+            </div>
+            <!-- Food -->
+            <div class="product-card">
+                <img src="https://via.placeholder.com/250x200?text=Nyoyo+&+Eggs" alt="Comrade Food - Nyoyo and eggs for quick, nutritious meals">
+                <h3>Comrade Food: Nyoyo & Eggs</h3>
+                <p>Fresh nyoyo meals and eggs delivered hot. Fuel your late-night study sessions with authentic Kenyan flavors.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Video Section -->
+    <section id="video" class="video-section">
+        <h2 style="color: #003366;">Watch Our Product Showcase</h2>
+        <p>A quick tour of our top products – from unboxing laptops to tasting our comrade nyoyo!</p>
+        <!-- Placeholder for a short video (under 1 minute). Upload a real video to YouTube/Vimeo and embed, or use local file. Recommended: 30-60 sec clip showing products in use around university campus. -->
+        <video width="600" height="400" controls poster="https://via.placeholder.com/600x400?text=Product+Video+Preview">
+            <source src="product-showcase.mp4" type="video/mp4"> <!-- Replace with actual video file URL -->
+            Your browser does not support the video tag. <a href="https://www.youtube.com/embed/your-video-id">Watch on YouTube</a>
+        </video>
+        <!-- Alternative: Embed YouTube for easy sharing -->
+        <!-- <iframe width="600" height="400" src="https://www.youtube.com/embed/your-video-id" frameborder="0" allowfullscreen></iframe> -->
+    </section>
+
+    <!-- About Section with Added Flavor: University Focus & Testimonials -->
+    <section id="about" class="about">
+        <h2>About Keya Company</h2>
+        <p>Established in Homabay, Kenya, Keya Company is deeply rooted in the Tom Mboya University community. We understand the unique challenges of student life – tight budgets, long study hours, and the need for reliable supplies. That's why we offer <strong>exclusive student discounts</strong>, <strong>bulk orders for staff</strong>, and partnerships with university events for on-campus pop-ups. Our mission? To fuel your success with products that are affordable, durable, and delivered free within 5km of campus. Join thousands of satisfied comrades who've made us their first choice!</p>
+        <h3>What Our Customers Say</h3>
+        <blockquote>"Keya saved my semester with their cheap laptops and free delivery – highly recommend!" – Jane, TMU Student</blockquote>
+        <blockquote>"The nyoyo is authentic and hits the spot after lectures. Best comrade prices!" – Prof. Omondi, Staff</blockquote>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" style="padding: 40px 20px; max-width: 800px; margin: 0 auto; text-align: center; background-color: #e9ecef; border-radius: 8px;">
+        <h2>Contact Us</h2>
+        <p>Location: Homabay, Kenya – Just Minutes from Tom Mboya University</p>
+        <p>Phone: <a href="tel:0796390161" style="color: #28a745;">0796 390 161</a></p>
+        <p>Email: <a href="mailto:keyak3402@gmail.com" style="color: #28a745;">keyak3402@gmail.com</a></p>
+        <p>Business Hours: Mon-Sat 8AM-8PM | Open 24/7 for Online Orders</p>
+        <p>Payment: M-Pesa, Cash on Delivery | Returns: 7-Day Policy</p>
+    </section>
+
+    <!-- Footer with Social Media Links -->
+    <footer>
+        <p>&copy; 2023 Keya Company. Serving Tom Mboya University with Pride. All Rights Reserved.</p>
+        <div class="social-links">
+            <!-- Add real social media links once accounts are created. These placeholders make it shareable on social media. -->
+            <a href="https://facebook.com/keyacompany" target="_blank" aria-label="Facebook">📘</a>
+            <a href="https://twitter.com/keyacompany" target="_blank" aria-label="Twitter">🐦</a>
+            <a href="https://instagram.com/keyacompany" target="_blank" aria-label="Instagram">📷</a>
+            <a href="https://whatsapp.com/keyacompany" target="_blank" aria-label="WhatsApp">💬</a>
+        </div>
+        <p>Follow us for daily deals and university tips!</p>
+    </footer>
+
+    <!-- Smooth Scrolling Script for Better UX -->
+    <script>
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({ behavior: 'smooth' });
+            });
+        });
+    </script>
+
+</body>
+</html>
